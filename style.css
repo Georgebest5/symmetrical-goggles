@@ -1,0 +1,33 @@
+body
+{
+  color: rgb(233, 14, 14);
+  background: #0232a1;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(210, 234, 3);
+  width: 350px;
+  height: 300px; 
+}
+#result_handgesture_name ,#result_handgesture_name2  
+{
+  color: rgb(17, 185, 246);
+}
+.handgesture_name
+{
+  font-size: 40px;
+}
+.handgesture
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
